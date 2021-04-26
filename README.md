@@ -51,4 +51,5 @@ i in the found goal state.
 
 – nodes is the number of nodes chosen for expansion during the search.
 
+#### Check the discussion report for a more detailed explaination
 
