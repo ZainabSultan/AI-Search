@@ -1,5 +1,5 @@
 # AI-Search
-Java implementation of search algorithms to help Ethan Hunt accomplish his mission.
+Java implementation of search algorithms to help Ethan Hunt accomplish his mission. This was done as part of the Introduction to Artificial Intelligence course project.
 
 # Situation:
 Agent Ethan Hunt is stranded in Nova island (M x N grid where 5<=M,N<=15), his comrades are spread across the grid at different locations and are badly injured. The level of injury can be thought of as a number from 0-100, where an injury of 100 means death. Ethan must gather his comrades into his truck and head to the submarine. His first priority is minimising the number of deaths, his second priority is minimising the level of injury.
